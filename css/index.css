@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(240, 240, 240);
+}
+
+
+.cabezera{
+    background-color: blue;
+        
+}
+.menu1{
+    text-align: left;
+    padding: 10px;
+}
+.cabezera-menu-link{
+    text-decoration: none;
+    color: white;    
+    
+    text-align: left;
+    padding: 14px 18px;
+    text-decoration: none;
+    font-size: 17px;    
+
+}
+.cabezera2{
+    background-color: rgb(49, 49, 219);
+    margin: 0px;
+}
+.menu2{
+    text-align: center;
+}
+.titulo{
+    text-decoration: none;
+    color: white;    
+    
+    
+    padding: 14px 10px;
+    text-decoration: none;
+    font-size: 17px; 
+
+
+
+
+
+
