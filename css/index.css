@@ -4,16 +4,20 @@ body{
 
 
 .cabezera{
-    background-color: blue;
+    background-color:rgb(19, 0, 105);
         
 }
 .menu1{
     text-align: left;
     padding: 10px;
 }
+.tema{
+    text-align: right;
+    float: right ;
+}
 .cabezera-menu-link{
     text-decoration: none;
-    color: white;    
+    color: rgb(185, 185, 185);    
     
     text-align: left;
     padding: 14px 18px;
@@ -22,23 +26,67 @@ body{
 
 }
 .cabezera2{
-    background-color: rgb(49, 49, 219);
+    background-color: rgb(28, 1, 148);
     margin: 0px;
 }
 .menu2{
-    text-align: center;
+    text-align: left;
 }
+
 .titulo{
     text-decoration: none;
-    color: white;    
+    color: rgb(180, 180, 180);    
     
     
     padding: 14px 10px;
     text-decoration: none;
     font-size: 17px; 
-
-
-
-
-
-
+}
+.carousel-inner{
+    padding: px;
+    width: 0px;
+    height: 900px;
+    box-sizing: content-box;
+}
+.box{
+    box-sizing: content-box;
+}
+.carpetas{
+    text-align: center;
+    font-size: smaller;
+    padding: 0px;
+    color: rgb(0, 89, 255);
+    
+}
+.box{
+    
+    padding: 10px 10px;
+    
+    
+}
+.logotipos{
+    padding: 10px;
+    float: left;
+}
+.logotipos1{
+    padding: 10px;
+    float: left;
+    
+}
+.logotipos2{
+    float: left;
+    padding: 10px;
+}
+.logotipos3{
+    float: left;
+    padding: 10px;
+}.logotipos4{
+    float: left;
+    padding: 10px;
+}.logotipos5{
+    float: left;
+    padding: 10px;
+}.logotipos6{
+    float: left;
+    padding: 10px;
+}
